@@ -1,5 +1,5 @@
 **Analytics Dashboard**
-Live Preview - [Click Here](https://analytics-dashboard-f4d3h68pk-rahul-rawats-projects-ccd05346.vercel.app/)
+Live Preview - [Click Here](https://analytics-dashboard-ecru-two.vercel.app/)
 
 # MapUp - Analytics Dashboard Assessment
 
